@@ -31,5 +31,3 @@ src="https://img.shields.io/github/followers/mindsetpro?logo=github&style=for-th
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/mindsetpro/Dragon-Ball-legends" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mindsetpro&repo=Dragon-Ball-legends&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
-

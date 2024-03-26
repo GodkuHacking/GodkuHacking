@@ -1,7 +1,7 @@
 # welcome to godku's github!
 
-<a href="https://www.github.com/mindsetpro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mindsetpro?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
+<a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/GodkuHacking?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
 ### Skills
 

@@ -18,15 +18,15 @@ src="https://img.shields.io/github/followers/mindsetpro?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mindsetpro"><img src="https://github-readme-stats.vercel.app/api?username=mindsetpro&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="mindsetpro's GitHub stats" /></a>
+<a href="http://www.github.com/GodkuHacking"><img src="https://github-readme-stats.vercel.app/api?username=GodkuHacking&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="mindsetpro's GitHub stats" /></a>
 
-<a href="http://www.github.com/mindsetpro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mindsetpro&stroke=a855f7&background=000000&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/GodkuHacking"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GodkuHacking&stroke=a855f7&background=000000&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="https://github.com/mindsetpro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindsetpro&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/GodkuHacking" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodkuHacking&langs_count=10&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mindsetpro/DBLA-official" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mindsetpro&repo=DBLA-official&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/mindsetpro/TModder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mindsetpro&repo=TModder&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/GodkuHacking/DBLA-official" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GodkuHacking&repo=DBLA-official&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/mindsetpro/TModder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GodkuHacking&repo=TModder&title_color=6366f1&text_color=a855f7&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 

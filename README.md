@@ -1,4 +1,5 @@
-# welcome to godku's github!
+<a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"><img
+src="https://media.discordapp.net/attachments/1196514696694603847/1223436234123120751/github-header-image.png?ex=6619d8c8&is=660763c8&hm=c1efa3e91023b6ab9d4b0c62fbb3cf06b09657c8594b3ec83c38e1b3a67eab42&=&format=webp&quality=lossless" /></a>
 
 <a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GodkuHacking?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>

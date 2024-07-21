@@ -1,9 +1,4 @@
 <a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"><img
-src="https://media.discordapp.net/attachments/1196514696694603847/1223436234123120751/github-header-image.png?ex=6619d8c8&is=660763c8&hm=c1efa3e91023b6ab9d4b0c62fbb3cf06b09657c8594b3ec83c38e1b3a67eab42&=&format=webp&quality=lossless" /></a>
-
-[![Redirect Image](https://media.discordapp.net/attachments/1220481805602394174/1223470603978281170/Untitled.jpg?ex=6619f8ca&is=660783ca&hm=0395fb8d6851cb7ec3f76094f392df641905e12acef93cd422149e9d0dd3dd7a&=&format=webp&width=1440&height=533)](https://discord.gg/zuX5ZbR3Qh)
-
-<a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GodkuHacking?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
 ### Skills
@@ -16,6 +11,9 @@ src="https://img.shields.io/github/followers/GodkuHacking?logo=github&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/GodkuHacking" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+
+<p align="left"> <a href="discord.gg/godkuprojectreborn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
